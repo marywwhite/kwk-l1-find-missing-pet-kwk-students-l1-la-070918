@@ -1,6 +1,5 @@
 mv cats/indoor/back-alley/painting-elephants.jp elephants/painters
 
-
 require_relative './spec_helper.rb'
 
 describe 'What should be inside /cats' do
